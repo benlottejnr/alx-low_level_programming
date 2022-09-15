@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /*
- * main - prints specific output
+ * main - Entry point
  *
  * return success on 0
 */
