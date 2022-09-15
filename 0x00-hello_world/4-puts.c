@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /*
- * function main prints specific output
+ * main - prints specific output
  *
  * return success on 0
 */
