@@ -2,7 +2,7 @@
 
 /*
  * main - Entry point
- *
+ * Description: Prints specific output
  * return success on 0
 */
 
