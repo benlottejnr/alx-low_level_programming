@@ -10,8 +10,8 @@ int main(void)
 {
 	int ch;
 	
-	ch = tolower(ch)
+	ch = tolower(ch);
 	putchar(ch);
-	putchar('\n')
+	putchar('\n');
 	return (0);
 }
