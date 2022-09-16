@@ -9,9 +9,13 @@
 int main(void)
 {
 	int n;
+	char cn;
 
 	for (n = 0; n <= 9; n++)
-	putchar(char(n));
+	{
+		cn = char(n)
+		putchar(cn);
+	}
 	putchar('\n');
 	return (0);
 }
