@@ -10,10 +10,8 @@ int main(void)
 	int n;
 	char ch;
 	for (n = 0; n <= 16; n++)
-	{
-		ch = ("%x" n);
-		putchar(ch);
-	}
+	putchar(ch);
+	for (char n = 'a'; n <= 'f'; n++)
 	putchar('\n');
 	return (0);
 }
