@@ -2,8 +2,8 @@
 
 /*
  * main - Entry point
- * Description: Prints specific output
- * return success on 0
+ * 
+ * return: always 0 (Success)
 */
 
 int main(void)
