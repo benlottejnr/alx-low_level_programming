@@ -8,8 +8,8 @@
 int main(void)
 {
 	int intType;
-	int longintType;
-	int longlongintType;
+	long int longintType;
+	long long int longlongintType;
 	float floatType;
 	char charType;
 
