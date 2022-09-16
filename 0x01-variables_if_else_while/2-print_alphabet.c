@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <ctype.h>
 
 /**
  * main - Entry point - checks if a number is positive or negative
@@ -10,7 +9,7 @@ int main(void)
 {
 	int ch;
 	
-	ch = tolower(ch);
+	for (ch= ‘a’; ch<= ‘z’; ch++)
 	putchar(ch);
 	putchar('\n');
 	return (0);
