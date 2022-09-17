@@ -1,7 +1,7 @@
-#include <stdio.h>
+#include <main.h>
 
 /**
- * main - Entry point - checks if a number is positive or negative
+ * main - Entry point
  *
  * Return: always 0 (Success)
 */
